@@ -12,7 +12,7 @@ vi isso pela primeira vez no https://github.com/scrollmapper/bible_databases
 
 Exemplo:
 
-Genesis 1:1 (Genesis capítulo 1, versículo 1) = 01001001 (01 001 001)
+Genesis 1:1 (Genesis capítulo 1, versículo 1) = 01001001 ###(01 001 001)
 
 Exodus 2:3 (Exôdo capítulo 2, versículo 3) = 02002003 (02 002 003)
 
