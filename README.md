@@ -1,4 +1,5 @@
-# biblianinja
+# Biblia Ninja
+Projeto para distribuição de arquivos da bíblia para uso em data science, NLP e outras aplicações visando partilhar iniciativas que contemplem o público de fala brasileira no aprofundamento bíblico. 
 
 # Sistema VersoID(vId) - a id dos Versículos
 Cada versículo é acessado por um id que é uma combinação dos números do livro+capitulo+versiculo.
@@ -17,3 +18,11 @@ Trechos
 
 Referências Cruzadas
 01001005 x 19074016 infere que Gênesis 1:5 tem relação com Salmos 74:16
+
+# Linguagens e Versões
+As linguagens e versões são específicadas nos nomes dos arquivos csv e parquet.
+
+Exemplo:
+pt_naa.csv - Português, Nova Versão Atualizada
+
+Um arquivo com todas as abreviações de linguagens e versão é disponibilizado na pasta utils.
