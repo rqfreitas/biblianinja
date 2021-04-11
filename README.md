@@ -1,5 +1,5 @@
 # Biblia Ninja
-Projeto para distribuição de arquivos da bíblia para uso em data science, NLP e outras aplicações visando partilhar iniciativas que contemplem o público de fala brasileira no aprofundamento bíblico. 
+Projeto para distribuição de arquivos da bíblia(csv e parquet) para uso em data science, NLP e outras aplicações visando partilhar iniciativas que contemplem o público de fala brasileira no aprofundamento bíblico. 
 
 # Sistema VersoID(vId) - a id dos Versículos
 Cada versículo é acessado por um id que é uma combinação dos números do livro+capitulo+versiculo.
