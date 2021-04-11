@@ -5,6 +5,9 @@ Projeto para distribuição de arquivos da bíblia(csv e parquet) para uso em da
 Cada versículo é acessado por um id que é uma combinação dos números do livro+capitulo+versiculo.
 vi isso pela primeira vez no https://github.com/scrollmapper/bible_databases
 
+| Livro | Capítulo | Versículo |
+| ----- | -------- | --------- |
+|  00  |   001     | 000 |
 Exemplo:
 
 Genesis 1:1 (Genesis capítulo 1, versículo 1) = 01001001 (01 001 001)
